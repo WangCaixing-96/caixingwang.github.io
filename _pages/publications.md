@@ -39,6 +39,8 @@ permalink: /publications/
 
 - <strong>Wang, C.</strong>, Distributed Learning for Adaptive and Robust Nonparametric Regression. *Submitted*.
 
+- Shen, Z.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, Wang, S.<sup>$^\dagger$</sup>, Yan, Y<sup>$^\dagger$</sup>. Differential Private High-dimensional Quantile Regression. *In Preparation*.
+
 - Heng, Q., <strong>Wang, C.</strong><sup>$^\star$</sup>. Quadratic Majorization Minorization with Extrapolation with Application to Kernel Regularized Learning. *In Preparation*.
 
 - <strong>Wang, C.</strong>, Heng, Q. Improved Analysis for Spectral Algorithms under Weak Assumptions. *In Preparation*.
