@@ -18,8 +18,8 @@ Working Experience
 
 Education
 ======
-* 2019 - 2024, Ph.D. in Statistics, School of Statistics \& Data Science, Shanghai University of Finance and Economics
-* 2015 - 2019, B.S. in Statistics, School of Statistics \& Data Science, Shanghai University of Finance and Economics
+* 2019 - 2024, Ph.D. in Statistics, School of Statistics and Data Science, Shanghai University of Finance and Economics
+* 2015 - 2019, B.S. in Statistics, School of Statistics and Data Science, Shanghai University of Finance and Economics
 
 Research Interests
 ======
