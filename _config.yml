@@ -13,7 +13,7 @@ name                     : &name "Caixing Wang"
 description              : &description "Postdoc researcher"
 description              : &description "Department of Statistics"
 description              : &description "The Chinese University of Hong Kong"
-URL                      : "https://wangcaixing96.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : https://wangcaixing96.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "WangCaixing-96/caixingwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Caixing Wang"
-  avatar           : "photo.jpg"
+  avatar           : "photo.png"
   bio              : |
    Postdoc researcher, <br>
    Department of Statistics <br>
