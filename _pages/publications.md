@@ -5,42 +5,42 @@ permalink: /publications/
 ---
 
 
-#### Journal
+# Journal (<font size=2>$\star$ denotes to corresponding author and $\dagger$ denotes to equal contribution (or Alphabet ordering)<font>)
 
-- Xingdong Feng, Xin He, Yuling Jiao, Lican Kang, <strong>Caixing Wang</strong>. Deep nonparametric quantile regression under covariate shift. <strong>Journal of Machine Learning Research</strong>. [[Paper]](https://www.jmlr.org/papers/volume25/24-0906/24-0906.pdf) (Alphabet ordering)
+- Feng, X.<sup>$^\dagger$</sup>, He, X.<sup>$^\dagger$</sup>, Jiao, Y.<sup>$^\dagger$</sup>, Kang, L.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>. (2024). "[Deep Nonparametric Quantile Regression Under Covariate Shift](https://www.jmlr.org/papers/volume25/24-0906/24-0906.pdf)". Journal of Machine Learning Research 25 (385), 1-50.
 
-- <strong>Caixing Wang</strong>, Tao Li, Xinyi Zhang, Xingdong Feng, Xin He (2024). Communication-efficient nonparametric quantile regression via random features. <strong>Journal of Computational and Graphical Statistics</strong>. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2308798) [[Code]](https://github.com/WangCaixing-96/DisRFKQR)
+- <strong>Wang, C.</strong>, Li, T., Zhang, X., Feng, X., He, X. (2024). "[Communication-efficient Nonparametric Quantile Regression via Random Features](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2308798)". Journal of Computational and Graphical Statistics 33 (4), 1175–1184.
 
-
-- Xingdong Feng, Qiaochu Liu, <strong>Caixing Wang</strong> (2023). A lack-of-fit test for quantile regression process models. <strong>Statistics \& Probability Letters</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167715222001936) 
- [[Code]](https://github.com/lqiaochu/QPLoF)
-(Alphabet ordering)
-
-#### Conference
+- Feng, X., Liu, Q., <strong>Wang, C.</strong> (2023). "[A Lack-of-fit Test for Quantile Regression Process Models](https://www.sciencedirect.com/science/article/pii/S0167715222001936)".  Statistics \& Probability Letters 192, 109680.
 
 
 
-- <strong>Caixing Wang</strong>, Ziliang Shen (2024). Distributed high-dimensional quantile regression: estimation efficiency and support recovery. <strong>International Conference on Machine Learning (ICML)</strong>, *Spotlight*.  [[Paper]](https://openreview.net/pdf?id=PDUQRBPkks) [[Code]](https://github.com/WangCaixing-96/DHSQR)
+# Conference
 
-- <strong>Caixing Wang</strong>, Xingdong Feng (2024). Optimal kernel quantile learning with random features. <strong>International Conference on Machine Learning (ICML)</strong>, *Spotlight*.  [[Paper]](https://openreview.net/pdf?id=KOW9ncAiRo)
+- <strong>Wang, C.</strong><sup>$^\star$</sup>, Shen, Z. (2024). "[Distributed High-dimensional Quantile Regression: Estimation Efficiency and Support Recovery](https://openreview.net/pdf?id=PDUQRBPkks)". International Conference on Machine Learning (*Spotlight*) 235, 51415-51441.
 
-- Chao Wang, Xin Bing, Xin He, <strong>Caixing Wang*</strong> (2024). Towards theoretical understanding of learning large-scale dependent data via random features. <strong>International Conference on Machine Learning (ICML)</strong>, *Spotlight*.  [[Paper]](https://openreview.net/pdf?id=eY4jrFe6Qc) [[Code]](https://github.com/wangchao-afk/KRR-RF-DP) (*Corresponding author)
+- <strong>Wang, C.</strong>, Feng, X. (2024). "[Optimal Kernel Quantile Learning with Random Features](https://openreview.net/pdf?id=KOW9ncAiRo)". International Conference on Machine Learning (*Spotlight*) 235, 50419-50452. 
 
-- Xingdong Feng, Xin He, <strong>Caixing Wang*</strong>, Chao Wang, Jingnan Zhang (2023). Towards a unified analysis of kernel-based methods under covariate shift. <strong>Advances in Neural Information Processing Systems (NIPS)</strong>, *Poster*. [[Paper]](https://openreview.net/pdf?id=yIcCkMUCtL) [[Code]](https://github.com/WangCaixing-96/Kernel_CS) (Alphabet ordering, *Corresponding author)
+- Wang, C., Bing, X., He, X.<sup>$^\star$</sup>, <strong>Wang, C.</strong><sup>$^\star$</sup> (2024). "[Towards Theoretical Understanding of Learning Large-scale Dependent Data via Random Features](https://openreview.net/pdf?id=eY4jrFe6Qc)". International Conference on Machine Learning (*Spotlight*) 235, 50118-50142.
 
-
-#### Preprints
-
+- Feng, X.<sup>$^\dagger$</sup>, He, X.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup><sup>$^\star$</sup>, Wang, C.<sup>$^\dagger$</sup>, ZHang, J. (2023). "[Towards a Unified Analysis of Kernel-based Methods Under Covariate Shift](https://openreview.net/pdf?id=yIcCkMUCtL)". Advances in Neural Information Processing Systems 36, 73839-73851.
 
 
-- Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. *Under Major Revision*. (# equal contribution) [[Paper]](https://arxiv.org/pdf/2310.13966)
 
-- <strong>Caixing Wang</strong>, Ziliang Shen, Shaoli Wang, Xingdong Feng. Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing. *Submitted*
 
-- <strong>Caixing Wang</strong>, Generalization Properties of Robust Learning with Random Features. *Submitted*
+# Preprints
 
-- <strong>Caixing Wang</strong>, Distributed Learning for Adaptive and Robust Nonparametric Regression. *Submitted*
+- Wang, C.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, He, X.,  Feng, X. "[Transfer Learning for Kernel-based Regression](https://arxiv.org/pdf/2310.13966)". Under Major Revision in  Journal of American Statistical Association.
 
-- <strong>Caixing Wang</strong>, Improved Analysis for Spectral Algorithms under Weak Assumptions. *In Preparation*
+-  <strong>Wang, C.</strong>, Shen, Z., Wang, S., Feng, X. Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing. *Submitted*.
+
+
+- <strong>Wang, C.</strong>, Generalization Properties of Robust Learning with Random Features. *Submitted*.
+
+- <strong>Wang, C.</strong>, Distributed Learning for Adaptive and Robust Nonparametric Regression. *Submitted*.
+
+- Heng, Q., <strong>Wang, C.</strong><sup>$^\star$</sup>. Quadratic Majorization Minorization with Extrapolation with Application to Kernel Regularized Learning. *In Preparation*.
+
+- <strong>Wang, C.</strong>, Heng, Q. Improved Analysis for Spectral Algorithms under Weak Assumptions. *In Preparation*.
 
 
