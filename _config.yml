@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Caixing Wang"
-  avatar           : "jian.jpg"
+  avatar           : "photo.jpg"
   bio              : |
-    Assistant Professor, <br>
-    HEC Montreal <br>
-    Montreal Institute for Learning Alogorithms (MILA)
-  location         : "Montreal, Canada"
+   Postdoc researcher, <br>
+   Department of Statistics <br>
+   The Chinese University of Hong Kong
+  location         : "Hong Kong"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=SLEH6XYAAAAJ&hl=zh-CN"
+  email            :  "caixingwang@cuhk.edu.hk"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,21 +97,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjianpku"
+  github           : "WangCaixing-96"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-3068-6094"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tangjianpku"
+  twitter          : 
   vine             :
-  weibo            : "1741301241/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
+  weibo            :
   xing             :
   youtube          :
   wikipedia        :
