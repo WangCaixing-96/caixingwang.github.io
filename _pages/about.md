@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at Department of Statistics, The Chinese University of Hong Kong, working with Professor [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/). Before that, I received my Ph.D. at School of Statistics and Data Science, Shanghai University of Finance and Economics, advised by Professor [Xingdong Feng](https://ssm.sufe.edu.cn/28/af/c714a141487/page.htm) and Associate Professor [Xin He](https://ssm.sufe.edu.cn/f4/de/c712a128222/page.htm). And I received my bachelor's degree at Shanghai University of Finance and Economics. 
+I am currently a postdoctoral researcher at Department of Statistics, The Chinese University of Hong Kong, working with Professor [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/). Before that, I received my Ph.D. at School of Statistics and Data Science, Shanghai University of Finance and Economics, advised by Professor [Xingdong Feng](https://ddgene.github.io/) and Associate Professor [Xin He](https://scholar.google.com/citations?user=aduqO4EAAAAJ&hl=en). And I received my bachelor's degree from Shanghai University of Finance and Economics. 
 
 
 Working Experience
