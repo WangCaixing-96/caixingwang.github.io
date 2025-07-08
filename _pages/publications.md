@@ -34,6 +34,8 @@ permalink: /publications/
 
 -  <strong>Wang, C.</strong>, Shen, Z., Wang, S., Feng, X. Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing. *Submitted*.
 
+-  Heng, Q., <strong>Wang, C.</strong><sup>$^\star$</sup>. "[Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning](https://arxiv.org/pdf/2507.04247v1)" *Submitted*.
+
 
 
 
