@@ -23,7 +23,7 @@ permalink: /publications/
 
 - Wang, C., Bing, X., He, X.<sup>$^\star$</sup>, <strong>Wang, C.</strong><sup>$^\star$</sup> (2024). "[Towards Theoretical Understanding of Learning Large-scale Dependent Data via Random Features](https://openreview.net/pdf?id=eY4jrFe6Qc)". International Conference on Machine Learning (*Spotlight*) 235, 50118-50142.
 
-- Feng, X.<sup>$^\dagger$</sup>, He, X.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup><sup>$^\star$</sup>, Wang, C.<sup>$^\dagger$</sup>, ZHang, J. (2023). "[Towards a Unified Analysis of Kernel-based Methods Under Covariate Shift](https://openreview.net/pdf?id=yIcCkMUCtL)". Advances in Neural Information Processing Systems 36, 73839-73851.
+- Feng, X.<sup>$^\dagger$</sup>, He, X.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup><sup>$^\star$</sup>, Wang, C.<sup>$^\dagger$</sup>, Zhang, J.<sup>$^\dagger$</sup> (2023). "[Towards a Unified Analysis of Kernel-based Methods Under Covariate Shift](https://openreview.net/pdf?id=yIcCkMUCtL)". Advances in Neural Information Processing Systems 36, 73839-73851.
 
 
 
