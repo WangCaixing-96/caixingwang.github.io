@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please find my CV [here](/files/CV_NEW.pdf).
+Please find my CV [here](/files/CV_25.pdf).
 
 ## Contact Me
 
