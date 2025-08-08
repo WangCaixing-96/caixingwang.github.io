@@ -7,7 +7,7 @@ permalink: /publications/
 
 # Journal <font size=2>($\star$ denotes to corresponding author and $\dagger$ denotes to equal contribution (or Alphabet ordering))<font>
 
-- Feng, X.<sup>$^\dagger$</sup>, He, X.<sup>$^\dagger$</sup><sup>$^\star$</sup>, Jiao, Y.<sup>$^\dagger$</sup>, Kang, L.<sup>$^\dagger$</sup><sup>$^\star$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>. (2024). "[Deep Nonparametric Quantile Regression Under Covariate Shift](https://www.jmlr.org/papers/volume25/24-0906/24-0906.pdf)". Journal of Machine Learning Research 25 (385), 1-50.
+- Feng, X.<sup>$^\dagger$</sup>, He, X.<sup>$^\dagger$</sup><sup>$^\star$</sup>, Jiao, Y.<sup>$^\dagger$</sup>, Kang, L.<sup>$^\dagger$</sup><sup>$^\star$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup> (2024). "[Deep Nonparametric Quantile Regression Under Covariate Shift](https://www.jmlr.org/papers/volume25/24-0906/24-0906.pdf)". Journal of Machine Learning Research 25 (385), 1-50.
 
 - <strong>Wang, C.</strong>, Li, T., Zhang, X., Feng, X., He, X<sup>$^\star$</sup>. (2024). "[Communication-efficient Nonparametric Quantile Regression via Random Features](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2308798)". Journal of Computational and Graphical Statistics 33 (4), 1175–1184.
 
@@ -34,9 +34,9 @@ permalink: /publications/
 
 -  <strong>Wang, C.</strong>, Shen, Z., Wang, S., Feng, X. Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing. *Submitted*.
 
--  Heng, Q., <strong>Wang, C.</strong><sup>$^\star$</sup>. "[Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning](https://arxiv.org/pdf/2507.04247v1)" *Submitted*.
+-  Heng, Q., <strong>Wang, C.</strong><sup>$^\star$</sup> "[Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning](https://arxiv.org/pdf/2507.04247v1)" *Submitted*.
 
--  Shen, Z.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, Wang, S.<sup>$^\dagger$</sup>, Yan, Y. <sup>$^\dagger$</sup><sup>$^\star$</sup>. "[High-Dimensional Differentially Private Quantile Regression: Distributed Estimation and Statistical Inference](https://arxiv.org/abs/2508.05212)" *Submitted*.
+-  Shen, Z.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, Wang, S.<sup>$^\dagger$</sup>, Yan, Y. <sup>$^\dagger$</sup><sup>$^\star$</sup> "[High-Dimensional Differentially Private Quantile Regression: Distributed Estimation and Statistical Inference](https://arxiv.org/abs/2508.05212)" *Submitted*.
 
 
 
