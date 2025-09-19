@@ -32,13 +32,15 @@ permalink: /publications/
 
 - Wang, C.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, He, X.,  Feng, X. "[Transfer Learning for Kernel-based Regression](https://arxiv.org/pdf/2310.13966)". Under Major Revision in  Journal of American Statistical Association.
 
+- Chen, F., <strong>Wang, C.</strong> <sup>$^\star$</sup> Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data. Under Major Revision in Statistica Sinica.
+
 -  <strong>Wang, C.</strong>, Shen, Z., Wang, S., Feng, X. Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing. *Submitted*.
 
 -  Heng, Q., <strong>Wang, C.</strong><sup>$^\star$</sup> "[Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning](https://arxiv.org/pdf/2507.04247v1)" *Submitted*.
 
 -  Shen, Z.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, Wang, S.<sup>$^\dagger$</sup>, Yan, Y. <sup>$^\dagger$</sup><sup>$^\star$</sup> "[High-Dimensional Differentially Private Quantile Regression: Distributed Estimation and Statistical Inference](https://arxiv.org/abs/2508.05212)" *Submitted*.
 
-- Chen, F., <strong>Wang, C.</strong> <sup>$^\star$</sup> Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data. *Submitted*.
+
 
 
 
