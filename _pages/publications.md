@@ -32,9 +32,9 @@ permalink: /publications/
 
 - Wang, C.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, He, X.,  Feng, X. "[Transfer Learning for Kernel-based Regression](https://arxiv.org/pdf/2310.13966)". Under Major Revision in  Journal of American Statistical Association.
 
-- Chen, F., <strong>Wang, C.</strong> <sup>$^\star$</sup> Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data. Under Major Revision in Statistica Sinica.
+- Chen, F., <strong>Wang, C.</strong> <sup>$^\star$</sup> "Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data". Under Major Revision in Statistica Sinica.
 
--  <strong>Wang, C.</strong>, Shen, Z., Wang, S., Feng, X. Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing. *Submitted*.
+-  <strong>Wang, C.</strong>, Shen, Z., Wang, S., Feng, X. "[Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing](/files/DHSQR.pdf)". *Submitted*.
 
 -  Heng, Q., <strong>Wang, C.</strong><sup>$^\star$</sup> "[Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning](https://arxiv.org/pdf/2507.04247v1)" *Submitted*.
 
