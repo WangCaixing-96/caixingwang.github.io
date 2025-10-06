@@ -4,6 +4,6 @@ permalink: /services/
 author_profile: true
 ---
 
-* Reviewer (Journal): Journal of American Statistical Association, Journal of the Royal Statistical Society Series B, The Annals of Applied Statistics, Journal of Computational and Graphical Statistics, Statistica Sinica, statistics and its interface, Journal of Parallel and Distributed Computing.
+* Reviewer (Journal): Journal of American Statistical Association (JASA), Journal of the Royal Statistical Society Series B (JRSSB), The Annals of Applied Statistics (AOAS), Journal of Computational and Graphical Statistics (JCGS), Statistica Sinica, Statistics and Its Interface (SII), Journal of Parallel and Distributed Computing (JPDC).
 
-* Reviewer (Conference): International Conference on Learning Representations, Neural Information Processing Systems.
+* Reviewer (Conference): International Conference on Learning Representations (ICLR), Neural Information Processing Systems (NeurIPS).
