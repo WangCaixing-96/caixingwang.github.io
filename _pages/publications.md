@@ -30,7 +30,7 @@ permalink: /publications/
 
 # Preprints
 
-- Wang, C.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, He, X.,  Feng, X. "[Transfer Learning for Kernel-based Regression](https://arxiv.org/pdf/2310.13966)". Under Major Revision in  Journal of American Statistical Association.
+- Wang, C.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, He, X.,  Feng, X. "[Transfer Learning for Kernel-based Regression](https://arxiv.org/pdf/2310.13966)". Major Revision Resubmitted to Journal of American Statistical Association.
 
 - Chen, F., <strong>Wang, C.</strong> <sup>$^\star$</sup> "Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data". Under Major Revision in Statistica Sinica.
 
