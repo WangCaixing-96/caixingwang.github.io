@@ -10,6 +10,8 @@ redirect_from:
 
 I am a tenure-track Assistant Professor (Associate Researcher) in School of Statistics and Data Science, Southeast University. Before that, I worked as a postdoctoral researcher at Department of Statistics, The Chinese University of Hong Kong, mentored by Professor [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/).  I received my Ph.D. in School of Statistics and Data Science, Shanghai University of Finance and Economics, advised by Professor [Xingdong Feng](https://ddgene.github.io/) and Associate Professor [Xin He](https://scholar.google.com/citations?user=aduqO4EAAAAJ&hl=en). And I received my bachelor's degree from Shanghai University of Finance and Economics. 
 
+I have **one PhD position available this year** and am recruiting highly motivated students in statistical learning and machine learning！
+
 
 Working Experience
 ======
