@@ -7,6 +7,8 @@ permalink: /publications/
 
 # Journal <font size=2>($\star$ denotes to corresponding author and $\dagger$ denotes to equal contribution (or Alphabet ordering))<font>
 
+- Chen, F.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup><sup>$^\star$</sup> (2025+). "Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data". Statistica Sinica, accepted.
+
 - Feng, X.<sup>$^\dagger$</sup>, He, X.<sup>$^\dagger$</sup><sup>$^\star$</sup>, Jiao, Y.<sup>$^\dagger$</sup>, Kang, L.<sup>$^\dagger$</sup><sup>$^\star$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup> (2024). "[Deep Nonparametric Quantile Regression Under Covariate Shift](https://www.jmlr.org/papers/volume25/24-0906/24-0906.pdf)". Journal of Machine Learning Research 25 (385), 1-50.
 
 - <strong>Wang, C.</strong>, Li, T., Zhang, X., Feng, X., He, X<sup>$^\star$</sup>. (2024). "[Communication-efficient Nonparametric Quantile Regression via Random Features](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2308798)". Journal of Computational and Graphical Statistics 33 (4), 1175–1184.
@@ -32,7 +34,6 @@ permalink: /publications/
 
 - Wang, C.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, He, X.,  Feng, X. "[Transfer Learning for Kernel-based Regression](https://arxiv.org/pdf/2310.13966)". Major Revision Resubmitted to Journal of American Statistical Association.
 
-- Chen, F., <strong>Wang, C.</strong> <sup>$^\star$</sup> "Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data". Major Revision Resubmitted to Statistica Sinica.
 
 -  <strong>Wang, C.</strong>, Shen, Z., Wang, S., Feng, X. "[Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing](/files/DHSQR.pdf)". *Submitted*.
 
