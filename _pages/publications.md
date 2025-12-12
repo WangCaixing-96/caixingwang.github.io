@@ -7,7 +7,7 @@ permalink: /publications/
 
 # Journal <font size=2>($\star$ denotes to corresponding author and $\dagger$ denotes to equal contribution (or Alphabet ordering))<font>
 
-- Chen, F.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup><sup>$^\star$</sup> (2025+). "Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data". Statistica Sinica, accepted.
+- Chen, F.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup><sup>$^\star$</sup> (2025+). "[Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0294_na.pdf)". Statistica Sinica, accepted.
 
 - Feng, X.<sup>$^\dagger$</sup>, He, X.<sup>$^\dagger$</sup><sup>$^\star$</sup>, Jiao, Y.<sup>$^\dagger$</sup>, Kang, L.<sup>$^\dagger$</sup><sup>$^\star$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup> (2024). "[Deep Nonparametric Quantile Regression Under Covariate Shift](https://www.jmlr.org/papers/volume25/24-0906/24-0906.pdf)". Journal of Machine Learning Research 25 (385), 1-50.
 
