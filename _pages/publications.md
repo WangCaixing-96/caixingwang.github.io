@@ -45,7 +45,7 @@ permalink: /publications/
 
 -  Zhang, Y.<sup>$^\dagger$</sup>, Luo, J<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\star$</sup> "Enhancing Fairness and Efficiency in Image Classification via Weighted SVD-Based Fine-Tuning of Large Pre-trained Models". *Submitted*.
 
--   <strong>Wang, C.</strong>, Wang, Y. "Optimal Sobolev Norm Learning Rates for Spectral Algorithms with Random Projections". *Submitted*.
+
 
 
 
