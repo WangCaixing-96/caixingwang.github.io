@@ -34,13 +34,10 @@ permalink: /publications/
 
 - Wang, C.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, He, X.,  Feng, X. "[Transfer Learning for Kernel-based Regression](https://arxiv.org/pdf/2310.13966)". Major Revision Resubmitted to Journal of American Statistical Association.
 
-- <strong>Wang, C.</strong>, Heng, Q., Kuang, Q., Feng, X. "Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness". Major Revision in Journal of American Statistical Association.
-
-- <strong>Wang, C.</strong><sup>$^\star$</sup> “Generalization Properties of Robust Learning with Random Features”. Major Revision Resubmitted to IEEE Transactions on Pattern Analysis and Machine Intelligence.
-
 -  <strong>Wang, C.</strong>, Shen, Z., Wang, S., Feng, X. "[Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing](/files/DHSQR.pdf)". *Submitted*.
 
-
+- <strong>Wang, C.</strong>, Heng, Q., Kuang, Q., Feng, X. "Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness". *Submitted*.
+  
 -  Heng, Q., <strong>Wang, C.</strong><sup>$^\star$</sup> "[Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning](https://arxiv.org/pdf/2507.04247v1)". *Submitted*.
 
 -  Shen, Z.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, Wang, S.<sup>$^\dagger$</sup>, Yan, Y. <sup>$^\dagger$</sup> "[High-Dimensional Differentially Private Quantile Regression: Distributed Estimation and Statistical Inference](https://arxiv.org/abs/2508.05212)". *Submitted*.
