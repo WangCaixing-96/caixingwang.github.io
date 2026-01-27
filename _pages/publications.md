@@ -36,7 +36,7 @@ permalink: /publications/
 
 - <strong>Wang, C.</strong>, Heng, Q., Kuang, Q., Feng, X. "Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness". Major Revision in Journal of American Statistical Association.
 
-- <strong>Wang, C.</strong> “Generalization Properties of Robust Learning with Random Features”. Major Revision Resubmitted to IEEE Transactions on Pattern Analysis and Machine Intelligence
+- <strong>Wang, C.</strong> “Generalization Properties of Robust Learning with Random Features”. Major Revision Resubmitted to IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 -  <strong>Wang, C.</strong>, Shen, Z., Wang, S., Feng, X. "[Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing](/files/DHSQR.pdf)". *Submitted*.
 
