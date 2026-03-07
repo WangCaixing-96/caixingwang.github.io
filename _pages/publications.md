@@ -7,7 +7,7 @@ permalink: /publications/
 
 # Journal <font size=2>($\star$ denotes to corresponding author and $\dagger$ denotes to equal contribution (or Alphabet ordering))<font>
 
-- <strong>Wang, C.</strong> (2026+). "[Generalization Properties of Robust Learning with Random Features](https://www.computer.org/csdl/journal/tp/5555/01/11419881/2eyKAkdsOw8)". IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted.
+- <strong>Wang, C.</strong> (2026+). "[Generalization Properties of Robust Learning with Random Features](https://ieeexplore.ieee.org/abstract/document/11419881)". IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted.
 
 - Chen, F.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup><sup>$^\star$</sup> (2025+). "[Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0294_na.pdf)". Statistica Sinica, accepted.
 
