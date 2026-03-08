@@ -4,4 +4,8 @@ permalink: /students/
 author_profile: true
 ---
 
-To be updated...
+# Current Master Student
+
+* Zhibo Chen, BS in Statistics, Zhongnan University of Economics and Law
+
+
