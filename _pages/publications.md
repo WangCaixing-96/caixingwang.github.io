@@ -40,7 +40,7 @@ permalink: /publications/
 
 - Shen, Z.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, Wang, S.<sup>$^\dagger$</sup>, Yan, Y. <sup>$^\dagger$</sup> "[High-Dimensional Differentially Private Quantile Regression: Distributed Estimation and Statistical Inference](https://arxiv.org/abs/2508.05212)". Revision Resubmitted to IEEE Transactions on Information Theory.
 
-- Zhang, Y.<sup>$^\dagger$</sup>, Luo, J<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\star$</sup> "Enhancing Fairness and Efficiency in Image Classification via Weighted SVD-Based Fine-Tuning of Large Pre-trained Models". Reject with resubmission in Annals of Applied Statistics.
+- Zhang, Y.<sup>$^\dagger$</sup>, Luo, J<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\star$</sup> "Enhancing Fairness and Efficiency in Image Classification via Weighted SVD-Based Fine-Tuning of Large Pre-trained Models". Revision Resubmitted to Annals of Applied Statistics.
 
 
 
