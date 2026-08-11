@@ -34,7 +34,7 @@ permalink: /publications/
 
 # Preprints
 
-- <strong>Wang, C.</strong>, Heng, Q., Kuang, Q., Feng, X. "Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness". Major Revision Resubmitted to Journal of American Statistical Association.
+- <strong>Wang, C.</strong>, Heng, Q., Kuang, Q., Feng, X. "Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness". Minor Revision in Journal of American Statistical Association.
 
 - Wang, C.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, He, X.,  Feng, X. "[Transfer Learning for Kernel-based Regression](https://arxiv.org/pdf/2310.13966)". Major Revision Resubmitted to Journal of American Statistical Association.
 
