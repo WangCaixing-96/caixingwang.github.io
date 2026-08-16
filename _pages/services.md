@@ -10,6 +10,7 @@ author_profile: true
 * The Annals of Applied Statistics (AOAS)
 * Journal of Computational and Graphical Statistics (JCGS)
 *  Statistica Sinica
+*  Computational Statistics and Data Analysis (CSDA)
 *  Statistics and Its Interface (SII)
 *  Econometric Review
 *  Journal of Parallel and Distributed Computing (JPDC)
