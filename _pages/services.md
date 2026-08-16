@@ -8,12 +8,13 @@ author_profile: true
 * Journal of American Statistical Association (JASA)
 * Journal of the Royal Statistical Society Series B (JRSSB)
 * The Annals of Applied Statistics (AOAS)
+* IEEE Transactions on Information Theory (TIT)
 * Journal of Computational and Graphical Statistics (JCGS)
-*  Statistica Sinica
-*  Computational Statistics and Data Analysis (CSDA)
-*  Statistics and Its Interface (SII)
-*  Econometric Review
-*  Journal of Parallel and Distributed Computing (JPDC)
+* Statistica Sinica
+* Computational Statistics and Data Analysis (CSDA)
+* Statistics and Its Interface (SII)
+* Econometric Review
+* Journal of Parallel and Distributed Computing (JPDC)
 
 ## Reviewer (Conference)
 
