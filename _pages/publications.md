@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-# Journal <font size=2>($\star$ denotes to corresponding author and $\dagger$ denotes to equal contribution (or Alphabet ordering))<font>
+# Journal <font size=2>($\star$ denotes to corresponding author, $\dagger$ denotes to equal contribution or Alphabet ordering, # denotes to my students)<font>
 
 
 - <strong>Wang, C.</strong>, Heng, Q., Kuang, Q., Feng, X. "Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness". Minor Revision Resubmitted to Journal of American Statistical Association.
@@ -42,6 +42,10 @@ permalink: /publications/
 - Shen, Z.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, Wang, S.<sup>$^\dagger$</sup>, Yan, Y. <sup>$^\dagger$</sup> "[High-Dimensional Differentially Private Quantile Regression: Distributed Estimation and Statistical Inference](https://arxiv.org/abs/2508.05212)". Revision Resubmitted to IEEE Transactions on Information Theory.
 
 - Zhang, Y.<sup>$^\dagger$</sup>, Luo, J<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\star$</sup> "Enhancing Fairness and Efficiency in Image Classification via Weighted SVD-Based Fine-Tuning of Large Pre-trained Models". Revision Resubmitted to Annals of Applied Statistics.
+
+- <strong>Wang, C.</strong>, Zhibo Chen<sup>#</sup>, Yue Wang "[Adaptive Regularization for Random Features: a Neighboring Early-stopping Rule with Oracle-rate Guarantees](https://arxiv.org/pdf/2608.25513)". Under review.
+
+- <strong>Wang, C.</strong> "Adversarial Learning with Spectral Regularization: A Uniﬁed Analysis of Generalization and Robustness". Under review.
 
 
 
