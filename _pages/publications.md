@@ -43,7 +43,7 @@ permalink: /publications/
 
 - Zhang, Y.<sup>$^\dagger$</sup>, Luo, J<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\star$</sup> "Enhancing Fairness and Efficiency in Image Classification via Weighted SVD-Based Fine-Tuning of Large Pre-trained Models". Revision Resubmitted to Annals of Applied Statistics.
 
-- Heng, Q., <strong>Wang, C.</strong> <sup>$^\star$</sup>. "[Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning](https://arxiv.org/pdf/2507.04247)". Under review.
+- Heng, Q., <strong>Wang, C</strong> <sup>$^\star$</sup>. "[Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning](https://arxiv.org/pdf/2507.04247)". Under review.
 
 - <strong>Wang, C.</strong>, Chen, Z.<sup>#</sup>, Wang, Y. "[Adaptive Regularization for Random Features: a Neighboring Early-stopping Rule with Oracle-rate Guarantees](https://arxiv.org/pdf/2608.25513)". Under review.
 
