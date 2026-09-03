@@ -12,6 +12,8 @@ permalink: /publications/
 
 - Wang, C.<sup>$^\dagger$</sup>,  <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, He, X.,  Feng, X. "[Transfer Learning for Kernel-based Regression](https://arxiv.org/pdf/2310.13966)". Minor Revision Resubmitted to Journal of American Statistical Association.
 
+- Shen, Z.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, Wang, S.<sup>$^\dagger$</sup>, Yan, Y. <sup>$^\dagger$</sup> "[High-Dimensional Differentially Private Quantile Regression: Distributed Estimation and Statistical Inference](https://arxiv.org/abs/2508.05212)". Minor Revision Resubmitted to IEEE Transactions on Information Theory.
+
 - <strong>Wang, C.</strong> (2026). "[Generalization Properties of Robust Learning with Random Features](https://www.computer.org/csdl/journal/tp/2026/07/11419881/2eyKAkdsOw8)". IEEE Transactions on Pattern Analysis and Machine Intelligence, 48 (7), 8199-8215.
 
 - Chen, F.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup><sup>$^\star$</sup> (2025+). "[Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0294_na.pdf)". Statistica Sinica, accepted.
@@ -39,7 +41,7 @@ permalink: /publications/
 
 # Preprints
 
-- Shen, Z.<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\dagger$</sup>, Wang, S.<sup>$^\dagger$</sup>, Yan, Y. <sup>$^\dagger$</sup> "[High-Dimensional Differentially Private Quantile Regression: Distributed Estimation and Statistical Inference](https://arxiv.org/abs/2508.05212)". Revision Resubmitted to IEEE Transactions on Information Theory.
+- <strong>Wang, C.</strong>, Wang, Y. " Random Projections for Spectral Algorithms: Optimal Rates in Sobolev Norms". Major revision in Artificial Intelligence Journal.
 
 - Zhang, Y.<sup>$^\dagger$</sup>, Luo, J<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\star$</sup> "Enhancing Fairness and Efficiency in Image Classification via Weighted SVD-Based Fine-Tuning of Large Pre-trained Models". Revision Resubmitted to Annals of Applied Statistics.
 
