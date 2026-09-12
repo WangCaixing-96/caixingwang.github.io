@@ -15,6 +15,7 @@ author_profile: true
 * Statistics and Its Interface (SII)
 * Econometric Review
 * Journal of Parallel and Distributed Computing (JPDC)
+* Neurocomputing
 
 ## Reviewer (Conference)
 
