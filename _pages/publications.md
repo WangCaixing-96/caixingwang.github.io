@@ -50,7 +50,7 @@ permalink: /publications/
 
 - <strong>Wang, C.</strong>, Chen, Z.<sup>#</sup>, Wang, Y. "[Adaptive Regularization for Random Features: a Neighboring Early-stopping Rule with Oracle-rate Guarantees](https://arxiv.org/pdf/2608.25513)". Under review.
 
-- <strong>Wang, C.</strong> "Adversarial Learning with Spectral Regularization: A Uniﬁed Analysis of Generalization and Robustness". Under review.
+- <strong>Wang, C.</strong> "[On the Optimality of Random Features under General Conditions: Misspecified Cases and Robust Learning](https://arxiv.org/pdf/2610.18333)". Under review.
 
 
 
