@@ -45,9 +45,6 @@ permalink: /publications/
 
 - <strong>Wang, C.</strong>, Wang, Y. " Random Projections for Spectral Algorithms: Optimal Rates in Sobolev Norms". Major revision Resubmitted to Artificial Intelligence Journal.
 
-- Zhang, Y.<sup>$^\dagger$</sup>, Luo, J<sup>$^\dagger$</sup>, <strong>Wang, C.</strong> <sup>$^\star$</sup> "Enhancing Fairness and Efficiency in Image Classification via Weighted SVD-Based Fine-Tuning of Large Pre-trained Models". Under review.
-
-
 - <strong>Wang, C.</strong>, Chen, Z.<sup>#</sup>, Wang, Y. "[Adaptive Regularization for Random Features: a Neighboring Early-stopping Rule with Oracle-rate Guarantees](https://arxiv.org/pdf/2608.25513)". Under review.
 
 - <strong>Wang, C.</strong> "[On the Optimality of Random Features under General Conditions: Misspecified Cases and Robust Learning](https://arxiv.org/pdf/2610.18333)". Under review.
